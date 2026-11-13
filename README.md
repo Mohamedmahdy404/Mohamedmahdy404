@@ -62,7 +62,7 @@
       </p>
       <p>
         <a href="https://apps.apple.com/eg/app/medcare-egypt/id6832610931">
-           App Store
+          🍎 App Store
         </a>
         &nbsp;&nbsp;•&nbsp;&nbsp;
         <a href="https://play.google.com/store/apps/details?id=com.ahmed.medcare">
@@ -102,7 +102,7 @@
       </p>
       <p>
         <a href="https://apps.apple.com/eg/app/paxi-go/id6758083168">
-           App Store
+          🍎 App Store
         </a>
         &nbsp;&nbsp;•&nbsp;&nbsp;
         <a href="https://play.google.com/store/apps/details?id=com.newulm.paxi">
@@ -142,7 +142,7 @@
       </p>
       <p>
         <a href="https://apps.apple.com/eg/app/ulm-care/id6741508500">
-           App Store
+          🍎 App Store
         </a>
         &nbsp;&nbsp;•&nbsp;&nbsp;
         <a href="https://play.google.com/store/apps/details?id=com.newulm.ulmcare">
